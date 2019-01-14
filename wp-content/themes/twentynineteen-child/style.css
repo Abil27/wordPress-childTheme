@@ -1,0 +1,17 @@
+/*
+Theme Name: Twentynineteen Child Theme
+Theme URI: http://hkonnect.net
+Description: A child Theme by Houssein Abil, Software Engineer
+Author: Houssein Abil
+Author URI: http://yali.hkonnect.net
+Template: twentynineteen
+Version: 1.0.0
+*/
+
+@import url("../twentynineteen/style.css");
+
+.site-title {
+  font-weight: 300px;
+  font-size: 100px;
+  text-transform: uppercase;
+}
